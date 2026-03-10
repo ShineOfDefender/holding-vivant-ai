@@ -15,3 +15,5 @@ OPERATIONAL DASHBOARD
 FIELD OBSERVATIONS
       ↓
 ML TRAINING DATA
+## Keywords
+Machine Learning, Agroecology, Climate Data, Decision Systems, Environmental Data Science, Sustainable Agriculture.
